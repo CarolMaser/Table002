@@ -7,7 +7,7 @@ function App() {
   const [columns, setColumns] = useState([]);
 
   const load = () => {
-    setColumns({
+    setColumns([{
       Municipio_Ano_Tipo: "Ano - Tabela",
       JAN: "Janeiro",
       FEV: "Fevereiro",
@@ -21,9 +21,9 @@ function App() {
       OUT: "Outubro",
       NOV: "Novembro",
       DEZ: "Dezembro"
-    });
+    }]);
 
-    setData({
+    setData([{
       Municipio_Ano_Tipo: "Conta Corrente - 2023",
       JAN: "Ok",
       FEV: "Ok",
@@ -37,7 +37,7 @@ function App() {
       OUT: "Ok",
       NOV: "Ok",
       DEZ: "Ok"
-    });
+    }]);
   };
 
   useEffect(() => {

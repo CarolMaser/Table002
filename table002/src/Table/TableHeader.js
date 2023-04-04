@@ -2,7 +2,7 @@ import React from "react";
 
 function TableHeader({ columns }) {
     
-    const keys = Object.keys(columns || {});
+    const keys = Object.keys(columns.length?columns[0]:{});
 
     return (        
         <thead>
