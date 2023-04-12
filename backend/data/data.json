@@ -1,0 +1,70 @@
+{
+  "dataHeader": [  
+    {
+      "Município - Ano - Tipo": " ",
+      "JAN": " ",
+      "FEV": " ",
+      "MAR": " ",
+      "ABR": " ",
+      "MAI": " ",
+      "JUN": " ",
+      "JUL": " ",
+      "AGO": " ",
+      "SET": " ",
+      "OUT": " ",
+      "NOV": " ",
+      "DEZ": " "
+    }    
+],
+    "dataRows": [  
+      {
+        "Municipio_Ano_Tipo": "2022 Balancete Isolado Conta Corrente",
+        "JAN": "ok",
+        "FEV": " ",
+        "MAR": "ok",
+        "ABR": "ok",
+        "MAI": " ",
+        "JUN": "ok",
+        "JUL": "ok",
+        "AGO": "ok",
+        "SET": "ok",
+        "OUT": "ok",
+        "NOV": " ",
+        "DEZ": "ok"
+      },      
+      {
+        "Municipio_Ano_Tipo": "2021 Balancete Isolado Conta Contabil",
+        "JAN": " ",
+        "FEV": "ok",
+        "MAR": " ",
+        "ABR": " ",
+        "MAI": "ok",
+        "JUN": "ok",
+        "JUL": "ok",
+        "AGO": "ok",
+        "SET": "ok",
+        "OUT": "ok",
+        "NOV": " ",
+        "DEZ": "ok"
+      },
+      {
+        "Municipio_Ano_Tipo": "2020 Balancete Isolado Conta Corrente",
+        "JAN": "ok",
+        "FEV": " ",
+        "MAR": "ok",
+        "ABR": "ok",
+        "MAI": " ",
+        "JUN": " ",
+        "JUL": "ok",
+        "AGO": "ok",
+        "SET": "ok",
+        "OUT": "ok",
+        "NOV": " ",
+        "DEZ": " "
+      }      
+  ]  
+}
+
+
+
+  
