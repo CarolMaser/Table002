@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# PROJTABELA
+
+Frontend:
+
+Para visualizar as informações que constam na pasta do frontend, será necessário entrar no diretório frontend e no terminal digitar o seguinte comando:
+
+1- npm start
+
+Em seguida no navegador vá para http://localhost:3000/ para visualizar as informações sendo consumidas no arquivo json.
