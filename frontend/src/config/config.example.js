@@ -1,3 +1,7 @@
-export const config = {
-    endPoint_backend: "http://localhost:3000/"
-}
+const config = {
+    port: 3003
+};
+
+module.exports = {
+     config
+};
