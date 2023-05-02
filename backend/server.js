@@ -2,7 +2,8 @@ const express = require('express')
 const cors = require('cors')
 const server = express()
 
-const endPoint = require('../frontend/src/config/config')
+// const endPoint = require('../frontend/src/config/config')
+const endPoint = require('./src/config/config')
 const data = require('./data/data.json');
 
 const port = endPoint.config.port
